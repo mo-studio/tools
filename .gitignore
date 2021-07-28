@@ -1,0 +1,5 @@
+.env
+.vscode/*
+.terraform
+terraform/us-gov-east-1/*/*/.terragrunt-cache
+terraform/us-gov-east-1/*/*/.terraform.lock.hcl
